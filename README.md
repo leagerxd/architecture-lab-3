@@ -1,5 +1,5 @@
 # architecture-lab-3
-Third Lab of Software Engineering Components\
+Third Lab of Software Engineering Components
 
 ---
 
